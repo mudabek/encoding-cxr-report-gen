@@ -1,7 +1,7 @@
 # On the Importance of Image Encoding in Automated Chest X-Ray Report Generation
 ### BMVC, 2022
 
-The reference code of [On the Importance of Image Encoding in Automated Chest X-Ray Report Generation](https://arxiv.org/abs/2010.10042).
+The reference code of [On the Importance of Image Encoding in Automated Chest X-Ray Report Generation](https://arxiv.org/abs/2211.13465).
 
 The original code taken from [Improving Factual Completeness and Consistency of Image-to-text Radiology Report Generation](https://github.com/ysmiura/ifcc).
 
